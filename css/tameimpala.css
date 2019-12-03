@@ -1,0 +1,75 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+
+html {
+  background: black;
+}
+
+
+
+
+.smicons{
+padding-top:50px;
+padding-left:50px;
+display:grid;
+grid-template-columns: 3% 3% 3% 3%;
+grid-gap: 1em;
+}
+
+.logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+a {
+  decoration:none;
+}
+
+/* section .wave {
+position:absolute;
+bottom:0;
+left:0;
+width:150%;
+height:100px;
+background: url('../assets/wave.svg');
+background-size: 1000px 100px;
+}
+
+section .wave.wave1 {
+ animation: animate 15s linear infinite;
+ z-index:999;
+ opacity: .5;
+ animation-delay: -5s;
+ bottom: 10px;
+}
+@keyframes animate {
+
+ 0%
+{
+ background-position-x: 0;
+ }
+ 100%
+{
+ background-position-x: 1000px;
+ }
+}
+@keyframes animate2 {
+
+ 0%
+{
+ background-position-x: 0;
+ }
+ 100%
+{
+ background-position-x: 1000px;
+ }
+}
+
+p {
+ color:white;
+} */
